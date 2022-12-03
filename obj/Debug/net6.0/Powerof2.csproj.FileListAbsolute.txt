@@ -1,0 +1,15 @@
+C:\logical_program\Powerof2\bin\Debug\net6.0\Powerof2.exe
+C:\logical_program\Powerof2\bin\Debug\net6.0\Powerof2.deps.json
+C:\logical_program\Powerof2\bin\Debug\net6.0\Powerof2.runtimeconfig.json
+C:\logical_program\Powerof2\bin\Debug\net6.0\Powerof2.dll
+C:\logical_program\Powerof2\bin\Debug\net6.0\Powerof2.pdb
+C:\logical_program\Powerof2\obj\Debug\net6.0\Powerof2.csproj.AssemblyReference.cache
+C:\logical_program\Powerof2\obj\Debug\net6.0\Powerof2.GeneratedMSBuildEditorConfig.editorconfig
+C:\logical_program\Powerof2\obj\Debug\net6.0\Powerof2.AssemblyInfoInputs.cache
+C:\logical_program\Powerof2\obj\Debug\net6.0\Powerof2.AssemblyInfo.cs
+C:\logical_program\Powerof2\obj\Debug\net6.0\Powerof2.csproj.CoreCompileInputs.cache
+C:\logical_program\Powerof2\obj\Debug\net6.0\Powerof2.dll
+C:\logical_program\Powerof2\obj\Debug\net6.0\refint\Powerof2.dll
+C:\logical_program\Powerof2\obj\Debug\net6.0\Powerof2.pdb
+C:\logical_program\Powerof2\obj\Debug\net6.0\Powerof2.genruntimeconfig.cache
+C:\logical_program\Powerof2\obj\Debug\net6.0\ref\Powerof2.dll
