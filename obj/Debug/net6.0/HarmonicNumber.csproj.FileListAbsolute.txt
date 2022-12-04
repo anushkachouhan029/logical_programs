@@ -1,0 +1,15 @@
+C:\logical_program\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.exe
+C:\logical_program\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.deps.json
+C:\logical_program\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.runtimeconfig.json
+C:\logical_program\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.dll
+C:\logical_program\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.pdb
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.csproj.AssemblyReference.cache
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.AssemblyInfoInputs.cache
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.AssemblyInfo.cs
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.csproj.CoreCompileInputs.cache
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.dll
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\refint\HarmonicNumber.dll
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.pdb
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.genruntimeconfig.cache
+C:\logical_program\HarmonicNumber\obj\Debug\net6.0\ref\HarmonicNumber.dll
